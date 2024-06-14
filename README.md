@@ -64,8 +64,8 @@ Started coding in 2020 with simple Python, now dabbling with: Python, Java, HTML
 
 ### GitHub Stats
 
-<a href="http://www.github.com/ShabMan01"><img src="https://github-readme-stats.vercel.app/api?username=ShabMan01&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="Overall Stats" /></a>
+<a href="http://www.github.com/ShabMan01"><img src="https://github-readme-stats.vercel.app/api?username=ShabMan01&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=0D1117&hide_border=true&show_icons=true" alt="Overall Stats" /></a>
 
-<a href="http://www.github.com/ShabMan01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShabMan01&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/ShabMan01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShabMan01&stroke=ffffff&background=0D1117&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/ShabMan01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShabMan01&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ShabMan01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShabMan01&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
