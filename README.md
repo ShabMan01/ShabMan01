@@ -4,7 +4,7 @@ Heyo 👋, I'm ***Shabeer***.
 Upcoming high school senior just trying to make cool stuff.
 -----------------------------------------------------------
 
-Started coding in 2020 with simple Python, now dabbling with: Python, Java, HTML, CSS, JavaScript, and [more](https://github.com/ShabMan01/ShabMan01/edit/main/README.md#skills-cs)!
+Started coding in 2020 with simple Python, now dabbling with: Python, Java, HTML, CSS, JavaScript, and [more](https://github.com/ShabMan01#skills-cs)!
 
 * 🌍  Based in Fairfax County, DMV, VA
 * 🖥️  See my portfolio at [shabman01.github.io](http://shabman01.github.io)!
