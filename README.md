@@ -10,7 +10,7 @@ Started coding in 2020 with simple Python, now dabbling with: Python, Java, HTML
 * 🖥️  See my portfolio at [shabman01.github.io](http://shabman01.github.io)!
 * ✉️  Contact me at [manalaishabeer@gmail.com](mailto:manalaishabeer@gmail.com)!
 * 🚀  Currently working on [many things, check them out here!](http://shabman01.github.io/projects)!
-* 🧠  Currently earning how to use **GitHub**, and a lot more random stuff!
+* 🧠  Currently learning how to use **GitHub**, and a lot more random stuff!
 * ⚡  Secretly hilarious 😉
 * 💯  It's *Shabeer*, not *Shab Man*... haha.
 
