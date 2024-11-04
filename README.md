@@ -6,7 +6,7 @@ Upcoming high school senior just trying to make cool stuff.
 
 Started coding in 2020 with simple Python, now dabbling with: Python, Java, HTML, CSS, JavaScript, and [more](https://github.com/ShabMan01#skills-cs)!
 
-* 🌍  Based in Fairfax County, DMV, VA
+* 🌍  Based in DMV, VA
 * 🖥️  See my portfolio at [shabman01.github.io](http://shabman01.github.io)!
 * ✉️  Contact me at [manalaishabeer@gmail.com](mailto:manalaishabeer@gmail.com)!
 * 🚀  Currently working on [many things, check them out here!](http://shabman01.github.io/projects)!
