@@ -9,9 +9,7 @@ Started coding in 2020 with simple Python, now dabbling with: Python, Java, HTML
 * 🌍  Based in DMV, VA
 * 🖥️  See my portfolio at [shabman01.github.io](http://shabman01.github.io)!
 * 🚀  Currently working on [many things, check them out here!](http://shabman01.github.io/projects)!
-* 🧠  Currently learning how to use **GitHub**, and a lot more random stuff!
-* ⚡  Secretly hilarious 😉
-* 💯  It's *Shabeer*, not *Shab Man*... haha.
+* 🧠  Currently learning how to use **GitHub**, **Next.js**, and a lot more random stuff!
 
 -----------------------------------------------------------
 
