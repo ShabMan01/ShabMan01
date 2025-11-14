@@ -7,9 +7,13 @@ College freshman just trying to make cool stuff.
 Started coding in 2019 with simple Python, now dabbling with: Python, Java, HTML, CSS, JavaScript, and [more](https://github.com/ShabMan01#skills-cs)!
 
 * 🌍  Based in DMV
-* 🖥️  See my portfolio at [shabman01.github.io](http://shabman01.github.io)!
 * 🚀  Currently working on [many things, check them out here!](http://shabman01.github.io/projects)!
 * 🧠  Currently learning how to use **GitHub**, **Next.js**, and a lot more random stuff!
+
+🖥️  Check out some of my projects!
+* [GPA Calculator](https://gpa-calculator-nu.vercel.app/)
+* [SIS Grade Calculator](https://grade-calculator-lemon.vercel.app/)
+* [Life-In-Time: Lifespan Predictor, Visualizer, and Contextualizer](https://life-in-time-v0.vercel.app/)
 
 -----------------------------------------------------------
 
