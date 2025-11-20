@@ -1,7 +1,7 @@
 Heyo 👋, I'm ***Shabeer***.
 ========================
 
-College freshman just trying to make cool stuff.
+College student just trying to make cool stuff.
 -----------------------------------------------------------
 
 Started coding in 2019 with simple Python, now dabbling with: Python, Java, HTML, CSS, JavaScript, and [more](https://github.com/ShabMan01#skills-cs)!
